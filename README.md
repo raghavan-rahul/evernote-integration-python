@@ -31,4 +31,4 @@ The following classes are present
 * Notebook - This is used to create notebooks, fetch all notebooks and returns tags and notes associated with a notebook
 * Tags - Allows users to get all tags and create new tags 
 
-Note: You can perform more operations using <a href="https://dev.evernote.com/doc/reference/NoteStore.html">Evernote Api</a>
+Note: You can perform more operations using api documentation at <a href="https://dev.evernote.com/doc/reference/NoteStore.html">Evernote Api</a>
